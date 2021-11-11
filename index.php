@@ -13,12 +13,12 @@
     <title>FOMA</title>
   </head>
   <body class="bg-body">
-
-    <div class="container-fluid">
+    <!--PRIMER DIV-->
+    <div class="container-fluid bg-body">
       <div class="row" id="menu">
       </div>
       <!--slider-->
-      <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <div id="carouselExampleControls" class="carousel slide m-2" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="img/INDEX/SLIDER1.PNG" class="d-block w-100" alt="...">
@@ -40,7 +40,29 @@
         </button>
       </div>
       <!--slider-->
-    </div>
+      <div class="m-2">
+        <img src="img/INDEX/GASLENA1.PNG" class="d-block w-100" alt="...">
+      </div>
+      <div class="row m-2">
+        <div class="col-md-6">
+          <img src="img/INDEX/FOGONLENA1.PNG" class="d-block w-100" alt="...">
+        </div>
+        <div class="col-md-6">
+          <img src="img/INDEX/FOGONLENATEXTO.PNG" class="d-block w-100" alt="...">
+        </div>
+      </div>
+      <div class="row m-2">
+        <div class="col-md-6">
+          <img src="img/INDEX/ESTUFAMINI1.PNG" class="d-block w-100" alt="...">
+        </div>
+        <div class="col-md-6">
+          <img src="img/INDEX/ESTUFAMINI2.PNG" class="d-block w-100" alt="...">
+        </div>
+      </div>
+      <div class="m-2">
+        <img src="img/INDEX/nosotros.PNG" class="d-block w-100" alt="...">
+      </div>
+    </div><!--CIERRE PRIMER DIV-->
       
       
 

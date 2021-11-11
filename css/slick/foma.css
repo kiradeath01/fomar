@@ -6,7 +6,7 @@
     background-color: #2c2d2b;
 }
 .img-tam{
-    width: 45%;
+    width: 50%;
     height: 50%;
 }
 .lvert{ 
@@ -16,46 +16,31 @@
     margin-right: 5px;
     margin-top: 10px;   
 }
-.imf{
-    background-image: url("/img/FONDO-INICIO.png");
-    
-background-size: cover;
-}
-.logo{background-image: url("/img/FONDO-LOGO.png");
-    
-    height: 50px;
-     width: 200px;  
-            
-}
 .img1{
     height: 500px;
      margin-left: 5px;
      margin-right: 5px;
      margin-top: 4px; 
      margin-right: 20px;
-     ;
 }
 .img2{
     height: 500px;
-
      margin-left: 5px;
      margin-right: 50px;
      margin-top: -580px; 
      margin-right: 20px;
-    
 }
 .img3{
     height: 500px;
-
      margin-left: 5px;
      margin-right: 50px;
      margin-top: -630px; 
      margin-right: 20px;
     
 }
-.img4{background-image: url('/img/INICIO/SECCIONGASLENA/FONDOGASLENA.png'); 
-     background-size:cover"
-
+.img4{
+    background-image: url('/img/INICIO/SECCIONGASLENA/FONDOGASLENA.png'); 
+     background-size:"cover";
 }
 .texto1{
     margin-left: 5px;

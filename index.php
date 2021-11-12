@@ -13,6 +13,7 @@
     <title>FOMA</title>
   </head>
   <body class="bg-body">
+  <!--<div class="loader"></div>-->
     <!--PRIMER DIV-->
     <div class="container-fluid bg-body">
       <div class="row" id="menu">
@@ -70,7 +71,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/menu.js"></script>
-
+    <script type="text/javascript">
+    $(window).load(function() {
+        $(".loader").fadeOut("slow");
+    });
+    </script>
    
   </body>
 </html>

@@ -19,23 +19,24 @@
       <div class="row" id="menu">
       </div>
       <div class="m-2">
-        <img src="img/MINI/MINI1.PNG" class="d-block w-100" alt="...">
+        <img src="img/MINI/MINI1.png" class="d-block w-100" alt="...">
       </div>
       <div class="m-2">
-        <img src="img/MINI/MINI2.PNG" class="d-block w-100" alt="...">
+        <img src="img/MINI/MINI2.png" class="d-block w-100" alt="...">
       </div>
       <div class="m-2">
-        <img src="img/MINI/MINI3.PNG" class="d-block w-100" alt="...">
+        <img src="img/MINI/MINI3.png" class="d-block w-100" alt="...">
       </div>
       <div class="m-2">
-        <img src="img/MINI/MINI4.PNG" class="d-block w-100" alt="...">
+        <img src="img/MINI/MINI4.png" class="d-block w-100" alt="...">
       </div>
       <div class="row m-2">
         <div class="col-md-6">
-          <img src="img/MINI/MINI5.PNG" class="d-block w-100" alt="...">
+          <img src="img/MINI/MINI5.png" class="d-block w-100" alt="...">
         </div>
-        <div class="col-md-6">
-          <img src="img/MINI/MINI6.PNG" class="d-block w-100" alt="...">
+        <div class="col-md-6 button-container">
+          <img src="img/MINI/MINI6.png" class="d-block w-100" alt="...">
+          <a class="btn bg-primary button-cont6" id="mini">Comprar</a>
         </div>
       </div>
     </div><!--CIERRE PRIMER DIV-->
@@ -46,11 +47,14 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/menu.js"></script>
+    <script src="include/db_index/managerBD.js"></script>
+    <!--
     <script type="text/javascript">
     $(window).load(function() {
         $(".loader").fadeOut("slow");
     });
     </script>
+  -->
    
   </body>
 </html>

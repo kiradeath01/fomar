@@ -12,7 +12,7 @@ $( document ).ready(function() {
                 '<a class="nav-link text-white" href="hibrido.php">Fogón Hibrido</a> <span class="lvert"></span>'+
                 '<a class="nav-link text-white" href="plus.php">Fogón Hibrido Plus</a> <span class="lvert"></span>'+
                 '<a class="nav-link text-white" href="mini.php">Fogón Estufa Small</a> <span class="lvert"></span>'+
-                '<a class="nav-link text-white" href="tienda.php">Tienda</a> <span class="lvert"></span>'+
+                '<a class="nav-link text-white" href="tienda.php">Comprar</a> <span class="lvert"></span>'+
                 '<a class="nav-link text-white" href="carrito.php">Carrito</a> '+           
               '</div>'+
             '</div>'+

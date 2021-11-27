@@ -1,3 +1,62 @@
+body{
+    background: #020202;
+    background-color: #2c2d2b;
+}
+
+.bg-body{
+    background: #020202;
+    background-color: #2c2d2b;
+}
+
+.button-container{
+    display:inline-block;
+    position:relative;
+}
+
+.button-cont{
+    position: absolute;
+    top:20em;
+    left:20.5em;
+    border-radius:1.5em;
+    color:white;
+}
+.button-cont2{
+    position: absolute;
+    bottom:9em;
+    left:58em;
+    border-radius:1.5em;
+    color:white;
+}
+.button-cont3{
+    position: absolute;
+    bottom:20em;
+    left:18em;
+    border-radius:1.5em;
+    color:white;
+}
+.button-cont4{
+    position: absolute;
+    top:11em;
+    left:27.5em;
+    border-radius:1.5em;
+    color:white;
+}
+.button-cont5{
+    position: absolute;
+    top:12em;
+    left:24em;
+    border-radius:1.5em;
+    color:white;
+}
+
+.button-cont6{
+    position: absolute;
+    bottom:17em;
+    left:18em;
+    border-radius:1.5em;
+    color:white;
+}
+
 .loader {
     position: fixed;
     left: 0px;
@@ -9,9 +68,6 @@
     opacity: .8;
 }
 
-.bg-body{
-    background-color: #020202;
-}
 .bg-navbar{
     background-color: #2c2d2b;
 }

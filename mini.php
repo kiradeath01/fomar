@@ -18,8 +18,9 @@
     <div class="container-fluid bg-body">
       <div class="row" id="menu">
       </div>
-      <div class="m-2">
+      <div class="m-2 button-container">
         <img src="img/MINI/MINI1.png" class="d-block w-100" alt="...">
+        <a class="btn bg-primary button-cont6" id="minih">Comprar</a>
       </div>
       <div class="m-2">
         <img src="img/MINI/MINI2.png" class="d-block w-100" alt="...">
@@ -36,7 +37,7 @@
         </div>
         <div class="col-md-6 button-container">
           <img src="img/MINI/MINI6.png" class="d-block w-100" alt="...">
-          <a class="btn bg-primary button-cont6" id="mini">Comprar</a>
+          <a class="btn bg-primary button-cont7" id="minif">Comprar</a>
         </div>
       </div>
     </div><!--CIERRE PRIMER DIV-->

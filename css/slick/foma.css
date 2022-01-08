@@ -1,11 +1,11 @@
 body{
-    background: #020202;
-    background-color: #2c2d2b;
+    background: white;
+    background-color: white;
 }
 
 .bg-body{
-    background: #020202;
-    background-color: #2c2d2b;
+    background: white;
+    background-color: white;
 }
 
 .button-container{
@@ -50,6 +50,14 @@ body{
 }
 
 .button-cont6{
+    position: absolute;
+    bottom:20em;
+    left:46em;
+    border-radius:1.5em;
+    color:white;
+}
+
+.button-cont7{
     position: absolute;
     bottom:17em;
     left:18em;

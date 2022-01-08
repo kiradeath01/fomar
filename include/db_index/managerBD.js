@@ -21,7 +21,12 @@ $("#plus").click(function(){
 });
 
 
-$("#mini").click(function(){
+$("#minih").click(function(){
+    localStorage.setItem("key", 5);
+    location.href="tienda.php"; 
+});
+
+$("#minif").click(function(){
     localStorage.setItem("key", 4);
     location.href="tienda.php"; 
 });
